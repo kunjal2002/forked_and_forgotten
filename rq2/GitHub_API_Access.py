@@ -3,7 +3,6 @@ import datetime
 import pandas as pd
 import numpy as np
 
-# Replace with your GitHub Personal Access Token
 GITHUB_TOKEN = "YOUR_TOKEN"
 g = Github(GITHUB_TOKEN)
 
