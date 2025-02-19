@@ -120,6 +120,6 @@ print(final_df)# Data Cleaning: Handling missing values
 # contributors_df.fillna({'Total Contributions': 0, 'Frequency': 0, 'Retention (weeks)': 0}, inplace=True)
 
 # Save to Excel
-output_file = "vs_code_repo_contributor_data.xlsx"
+output_file = "repo_contributor_data.xlsx"
 final_df.to_excel(output_file, index=False)
 print(f"Data saved to {output_file}")
