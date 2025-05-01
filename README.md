@@ -1,4 +1,4 @@
-                                                                  **Forked and Forgotten: The Uncertain Lifespan of Open-Source Developers**
+<H2 style="text-align:center;align-items:center;">Forked and Forgotten: The Uncertain Lifespan of Open-Source Developers</H2>
 
 This project explores the dynamics of open-source software development, focusing on the lifespan and retention of contributors in open-source projects. The study aims to provide insights into how different factors influence the sustainability and success of open-source projects.
 
@@ -21,16 +21,18 @@ _**4. How does developer tenure impact the quality of FOSS projects?**_
 **Project Structure**
 
 To navigate this project, please refer to the following directories and files:
+<ul>
+<li><b>Data</b>: Contains all four data extracts used for the project</li>
 
-**Data:** Contains all four data extracts used for the project.
+<li><b>Data Extraction Scripts</b>: Holds scripts used for extracting data from GitHub</li>
 
-**Data Extraction Scripts:** Holds scripts used for extracting data from GitHub.
+<li><b>Data Analysis</b>: Holds scripts for data analysis for all RQs.
+Additionally, individual folders for each research question also contain analysis scripts and related data</li>
 
-**Data Analysis:** Holds scripts for data analysis for all RQs.
-Additionally, individual folders for each research question also contain analysis scripts and related data.
+<li><b>Top_1000_repos.docx</b>: A document listing the top 1000 repositories used as the sample space we used for random sampling in this study</li>
 
-**Top_1000_repos.docx:** A document listing the top 1000 repositories used as the sample space we used for random sampling in this study.
+<li><b>Top_1000_repos.ipynb</b>: A Jupyter notebook script used to extract the list of top repositories</li>
 
-**Top_1000_repos.ipynb:** A Jupyter notebook script used to extract the list of top repositories.
+</ul>
 
 This structure should help you locate and explore the data and analysis for each research question.
