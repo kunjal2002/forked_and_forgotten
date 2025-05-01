@@ -1,4 +1,4 @@
-**Forked and Forgotten: The Uncertain Lifespan of Open-Source Developers**
+                                                                  **Forked and Forgotten: The Uncertain Lifespan of Open-Source Developers**
 
 This project explores the dynamics of open-source software development, focusing on the lifespan and retention of contributors in open-source projects. The study aims to provide insights into how different factors influence the sustainability and success of open-source projects.
 
