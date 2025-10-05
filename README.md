@@ -1,6 +1,6 @@
 <H2 style="text-align:center;align-items:center;">Forked and Forgotten: The Uncertain Lifespan of Open-Source Developers</H2>
 
-This project explores the dynamics of open-source software development, focusing on the lifespan and retention of contributors in open-source projects. The study aims to provide insights into how different factors influence the sustainability and success of open-source projects.
+The project is part of the ECS 260 course at UC DAVIS, which my teammates and I developed. This project explores the dynamics of open-source software development, focusing on the lifespan and retention of contributors in open-source projects. The study aims to provide insights into how different factors influence the sustainability and success of open-source projects.
 
 **Research Questions**
 
